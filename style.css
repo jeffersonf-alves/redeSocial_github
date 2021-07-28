@@ -40,6 +40,10 @@ main .nameUser {
     font-size: 22px;
     font-weight: bold;
 }
+main .bioUser {
+    text-align: start;
+
+}
 main .content-info {
     display: flex;
     padding: 15px;
